@@ -1,0 +1,47 @@
+{
+  "name": "react-project",
+  "version": "2.0.0",
+  "private": true,
+  "repository": {
+    "type": "git"
+  },
+  "devDependencies": {
+    "husky": "^1.1.4",
+    "lerna": "^3.4.3",
+    "lint-staged": "^8.0.4",
+    "prettier": "^1.15.2",
+    "rimraf": "^2.6.3"
+  },
+  "workspaces": [
+    "packages/common",
+    "packages/landing",
+    "packages/landing-gatsby",
+    "packages/reusecore"
+  ],
+  "scripts": {
+    "clean": "lerna clean",
+    "del-dist": "lerna exec --parallel --rimraf public",
+    "gatsby-dev": "cd packages/landing-gatsby && gatsby develop",
+    "gatsby-build": "cd packages/landing-gatsby && gatsby build",
+    "gatsby-serve": "cd packages/landing-gatsby && gatsby serve",
+    "start": "lerna run --parallel dev",
+    "web": "cd packages/landing && yarn dev",
+    "landing-build": "cd ./packages/landing && yarn build",
+    "landing-start": "cd ./packages/landing && yarn start",
+    "core": "cd ./packages/common && yarn dev",
+    "core-build": "cd ./packages/common && yarn build",
+    "prebuild": "yarn del-dist",
+    "format": "prettier --trailing-comma es5 --single-quote --write 'packages/*/*.js' 'packages/*/!(node_modules)/**/*.js'"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{js,md,css}": [
+      "prettier --trailing-comma es5 --single-quote --write",
+      "git add"
+    ]
+  }
+}

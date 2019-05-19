@@ -1,0 +1,1770 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "jsonName": "dev-404-page-5f9",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/Users/jamesclark/Documents/react_project_1v2/packages/landing-gatsby/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "componentPath": "/Users/jamesclark/Documents/react_project_1v2/packages/landing-gatsby/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7fcdfe1e70643fa0ffeb382ca9477161",
+        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
+      "resolve": "/Users/jamesclark/Documents/react_project_1v2/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/jamesclark/Documents/react_project_1v2/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "b2e919ff69dd6370fa1fceabcea31e0a",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1fc32581-893a-55e8-8927-bcd667e2b700": {
+      "resolve": "/Users/jamesclark/Documents/react_project_1v2/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "id": "1fc32581-893a-55e8-8927-bcd667e2b700",
+      "name": "load-babel-config",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/jamesclark/Documents/react_project_1v2/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "packageJson": {
+        "name": "load-babel-config",
+        "description": "Internal plugin that handles loading Babel configs",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "c0357375cf814eeb06980d0c6b3731d5",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "a5079d69-ba80-53dc-82f9-0f440bd5448c": {
+      "resolve": "/Users/jamesclark/Documents/react_project_1v2/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "a5079d69-ba80-53dc-82f9-0f440bd5448c",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/jamesclark/Documents/react_project_1v2/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "6812a603c1beca973c5849fc0b54dfdb",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "f795702c-a3b8-5a88-88ee-5d06019d44fa": {
+      "resolve": "/Users/jamesclark/Documents/react_project_1v2/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/jamesclark/Documents/react_project_1v2/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "e1baf17fd5d5a5ad1e9f7d07a0d37823",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84dad27f-1d44-51fc-ac56-4db2e5222995": {
+      "resolve": "/Users/jamesclark/Documents/react_project_1v2/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "84dad27f-1d44-51fc-ac56-4db2e5222995",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/jamesclark/Documents/react_project_1v2/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "48d367aa5a970ee3799c659c6c689530",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "6f4b2fa9-66b5-5205-a03f-140005a2cfe5": {
+      "resolve": "/Users/jamesclark/Documents/react_project_1v2/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "id": "6f4b2fa9-66b5-5205-a03f-140005a2cfe5",
+      "name": "webpack-theme-component-shadowing",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/jamesclark/Documents/react_project_1v2/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "packageJson": {
+        "name": "webpack-theme-component-shadowing",
+        "description": "An internal Gatsby plugin which handles configuring webpack to ensure theme components fall back from the user's site to theme modules.",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Chris Biscardi <chris@christopherbiscardi.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "ed15af254be882c7b14b9ebf2d5cfc98",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "663baf99-b365-5fb9-ac2b-fbc1a18c32fd": {
+      "resolve": "/Users/jamesclark/Documents/react_project_1v2/node_modules/gatsby-plugin-styled-components",
+      "id": "663baf99-b365-5fb9-ac2b-fbc1a18c32fd",
+      "name": "gatsby-plugin-styled-components",
+      "version": "3.0.7",
+      "pluginOptions": {
+        "plugins": [],
+        "minify": false
+      },
+      "nodeAPIs": [
+        "onCreateBabelConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "wrapRootElement",
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/jamesclark/Documents/react_project_1v2/node_modules/gatsby-plugin-styled-components",
+      "packageJson": {
+        "name": "gatsby-plugin-styled-components",
+        "description": "Gatsby plugin to add support for styled components",
+        "version": "3.0.7",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "styled-components"
+        ],
+        "author": "Guten Ye <ywzhaifei@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.2.0"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "babel-plugin-styled-components",
+            "version": ">1.5.0"
+          },
+          {
+            "name": "gatsby",
+            "version": "^2.0.32"
+          },
+          {
+            "name": "styled-components",
+            "version": ">=2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "3e3da2eaac0364ac32bd8e277191fb1f",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1943ff2f-9c0c-558d-8d0c-006603e8106a": {
+      "resolve": "/Users/jamesclark/Documents/react_project_1v2/node_modules/gatsby-plugin-react-helmet",
+      "id": "1943ff2f-9c0c-558d-8d0c-006603e8106a",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "3.0.10",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/jamesclark/Documents/react_project_1v2/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
+        "version": "3.0.10",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "react-helmet",
+          "seo",
+          "document",
+          "head",
+          "title",
+          "meta",
+          "link",
+          "script",
+          "base",
+          "noscript",
+          "style"
+        ],
+        "author": "Kyle Mathews <matthews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "910dc72b3deeb0991bc0f993d4afcb01",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9": {
+      "resolve": "/Users/jamesclark/Documents/react_project_1v2/node_modules/gatsby-transformer-sharp",
+      "id": "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9",
+      "name": "gatsby-transformer-sharp",
+      "version": "2.1.17",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/jamesclark/Documents/react_project_1v2/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "2.1.17",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.33"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.0-beta.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "d1039caaa18dcd0903a84c79b5390045",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84d6154d-4241-556c-a679-cc8339cac100": {
+      "resolve": "/Users/jamesclark/Documents/react_project_1v2/node_modules/gatsby-plugin-sharp",
+      "id": "84d6154d-4241-556c-a679-cc8339cac100",
+      "name": "gatsby-plugin-sharp",
+      "version": "2.0.30",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/jamesclark/Documents/react_project_1v2/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "2.0.30",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "imagemin",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-mozjpeg",
+            "version": "^8.0.0"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mini-svg-data-uri",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "0f59c39ef1e040a201da635e911c41e9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "112c12f8-b222-509b-abe0-dfe93a905df9": {
+      "resolve": "/Users/jamesclark/Documents/react_project_1v2/node_modules/gatsby-plugin-manifest",
+      "id": "112c12f8-b222-509b-abe0-dfe93a905df9",
+      "name": "gatsby-plugin-manifest",
+      "version": "2.0.24",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "gatsby-starter-default",
+        "short_name": "starter",
+        "start_url": "/",
+        "background_color": "#663399",
+        "theme_color": "#663399",
+        "display": "minimal-ui",
+        "icon": "src/images/gatsby-icon.png"
+      },
+      "nodeAPIs": [
+        "onPostBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/jamesclark/Documents/react_project_1v2/node_modules/gatsby-plugin-manifest",
+      "packageJson": {
+        "name": "gatsby-plugin-manifest",
+        "description": "Gatsby plugin which adds a manifest.webmanifest to make sites progressive web apps",
+        "version": "2.0.24",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "icons",
+          "manifest.webmanifest",
+          "progressive-web-app",
+          "pwa"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.15"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "005cd358a581fb5aa9f044670a20054d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "200a4371-a5f9-5607-8843-d16493f5c80d": {
+      "resolve": "/Users/jamesclark/Documents/react_project_1v2/node_modules/gatsby-plugin-prefetch-google-fonts",
+      "id": "200a4371-a5f9-5607-8843-d16493f5c80d",
+      "name": "gatsby-plugin-prefetch-google-fonts",
+      "version": "1.4.0",
+      "pluginOptions": {
+        "plugins": [],
+        "fonts": [
+          {
+            "family": "Roboto",
+            "variants": [
+              "100",
+              "100i",
+              "300",
+              "300i",
+              "400",
+              "400i",
+              "500",
+              "500i",
+              "700",
+              "700i",
+              "900",
+              "900i"
+            ]
+          },
+          {
+            "family": "Poppins",
+            "variants": [
+              "300",
+              "400",
+              "500",
+              "600",
+              "700"
+            ]
+          },
+          {
+            "family": "Lato",
+            "variants": [
+              "300",
+              "400",
+              "700"
+            ]
+          },
+          {
+            "family": "Open Sans",
+            "variants": [
+              "300",
+              "400",
+              "700"
+            ]
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/jamesclark/Documents/react_project_1v2/node_modules/gatsby-plugin-prefetch-google-fonts",
+      "packageJson": {
+        "name": "gatsby-plugin-prefetch-google-fonts",
+        "version": "1.4.0",
+        "main": "gatsby-ssr.js",
+        "keywords": [
+          "gatsby-plugin",
+          "gatsby",
+          "plugin",
+          "web",
+          "font",
+          "loader",
+          "google",
+          "webfont",
+          "webfontloader",
+          "prefetch",
+          "download",
+          "downloader",
+          "local"
+        ],
+        "author": "Kennedy Rose <krose@escaladesports.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.2.0"
+          },
+          {
+            "name": "clean-css",
+            "version": "^4.2.1"
+          },
+          {
+            "name": "download",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "get-urls",
+            "version": "^8.0.0"
+          },
+          {
+            "name": "globby",
+            "version": "^8.0.1"
+          },
+          {
+            "name": "google-fonts-plugin",
+            "version": "2.0.2"
+          },
+          {
+            "name": "object-hash",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.1.2"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.1.2"
+          },
+          {
+            "name": "@babel/plugin-proposal-class-properties",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "@babel/plugin-proposal-decorators",
+            "version": "^7.1.2"
+          },
+          {
+            "name": "@babel/plugin-proposal-do-expressions",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/plugin-proposal-export-default-from",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/plugin-proposal-export-namespace-from",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/plugin-proposal-function-bind",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/plugin-proposal-function-sent",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "@babel/plugin-proposal-json-strings",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/plugin-proposal-logical-assignment-operators",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/plugin-proposal-nullish-coalescing-operator",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/plugin-proposal-numeric-separator",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/plugin-proposal-optional-chaining",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/plugin-proposal-pipeline-operator",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/plugin-proposal-throw-expressions",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/plugin-syntax-dynamic-import",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/plugin-syntax-import-meta",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/plugin-syntax-jsx",
+            "version": "^7.2.0"
+          },
+          {
+            "name": "@babel/plugin-transform-runtime",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "@babel/preset-env",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "@babel/preset-react",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "child-process-async",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "child-process-promise",
+            "version": "^2.2.1"
+          },
+          {
+            "name": "emotion",
+            "version": "^9.2.6"
+          },
+          {
+            "name": "emotion-server",
+            "version": "^9.2.6"
+          },
+          {
+            "name": "enzyme",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "enzyme-adapter-react-16",
+            "version": "^1.3.0"
+          },
+          {
+            "name": "eslint",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "eslint-config-escalade-sports",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "gatsby",
+            "version": "^2.0.19"
+          },
+          {
+            "name": "gatsby-plugin-emotion",
+            "version": "2.0.5"
+          },
+          {
+            "name": "husky",
+            "version": "^0.14.3"
+          },
+          {
+            "name": "identity-obj-proxy",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "isomorphic-fetch",
+            "version": "^2.2.1"
+          },
+          {
+            "name": "jest",
+            "version": "^23.4.2"
+          },
+          {
+            "name": "jest-dom",
+            "version": "^1.12.0"
+          },
+          {
+            "name": "lint-staged",
+            "version": "^7.2.0"
+          },
+          {
+            "name": "netlify-cms",
+            "version": "^1.9.3"
+          },
+          {
+            "name": "netlify-lambda",
+            "version": "^0.4.0"
+          },
+          {
+            "name": "npm-run-all",
+            "version": "^4.1.3"
+          },
+          {
+            "name": "opn-cli",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "react",
+            "version": "^16.4.0"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.4.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "react-netlify-form",
+            "version": "^2.0.7"
+          },
+          {
+            "name": "react-no-ssr",
+            "version": "^1.1.0"
+          },
+          {
+            "name": "react-test-renderer",
+            "version": "^16.4.2"
+          },
+          {
+            "name": "react-testing-library",
+            "version": "^4.1.7"
+          },
+          {
+            "name": "request",
+            "version": "^2.87.0"
+          },
+          {
+            "name": "statable",
+            "version": "^0.3.2"
+          },
+          {
+            "name": "static-server",
+            "version": "^2.2.1"
+          },
+          {
+            "name": "strip-html-comments",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "toml",
+            "version": "^2.3.3"
+          },
+          {
+            "name": "wt-cli",
+            "version": "^10.0.3"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "9ec964172d91c2412b229f9b271348d2",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
+      "resolve": "/Users/jamesclark/Documents/react_project_1v2/packages/landing-gatsby",
+      "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "name": "default-site-plugin",
+      "version": "d4c252c3c2c1d8168782b5838da9bc1e",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/jamesclark/Documents/react_project_1v2/packages/landing-gatsby",
+      "packageJson": {
+        "name": "gatsby-landing",
+        "version": "2.0.0",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "RedQ Team",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@glidejs/glide",
+            "version": "^3.2.4"
+          },
+          {
+            "name": "@redq/reuse-modal",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "@zeit/next-css",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "aphrodite",
+            "version": "^2.2.3"
+          },
+          {
+            "name": "babel-plugin-styled-components",
+            "version": "^1.10.0"
+          },
+          {
+            "name": "formik",
+            "version": "^1.3.2"
+          },
+          {
+            "name": "gatsby",
+            "version": "^2.0.116"
+          },
+          {
+            "name": "gatsby-image",
+            "version": "^2.0.29"
+          },
+          {
+            "name": "gatsby-plugin-manifest",
+            "version": "^2.0.17"
+          },
+          {
+            "name": "gatsby-plugin-offline",
+            "version": "^2.0.22"
+          },
+          {
+            "name": "gatsby-plugin-prefetch-google-fonts",
+            "version": "^1.4.0"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^3.0.6"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.20"
+          },
+          {
+            "name": "gatsby-plugin-styled-components",
+            "version": "^3.0.5"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^2.0.20"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^2.1.13"
+          },
+          {
+            "name": "moment",
+            "version": "^2.22.2"
+          },
+          {
+            "name": "prop-types",
+            "version": "^15.6.2"
+          },
+          {
+            "name": "rc-drawer",
+            "version": "^1.7.6"
+          },
+          {
+            "name": "rc-progress",
+            "version": "^2.3.0"
+          },
+          {
+            "name": "rc-slider",
+            "version": "^8.6.3"
+          },
+          {
+            "name": "rc-tabs",
+            "version": "^9.5.6"
+          },
+          {
+            "name": "rc-tooltip",
+            "version": "^3.7.3"
+          },
+          {
+            "name": "react",
+            "version": "^16.8.2"
+          },
+          {
+            "name": "react-accessible-accordion",
+            "version": "^2.4.5"
+          },
+          {
+            "name": "react-anchor-link-smooth-scroll",
+            "version": "^1.0.11"
+          },
+          {
+            "name": "react-content-loader",
+            "version": "^3.2.0"
+          },
+          {
+            "name": "react-countup",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "react-dates",
+            "version": "^18.2.2"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.8.2"
+          },
+          {
+            "name": "react-dropzone",
+            "version": "^7.0.1"
+          },
+          {
+            "name": "react-google-maps",
+            "version": "^9.4.5"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "react-icons-kit",
+            "version": "^1.2.1"
+          },
+          {
+            "name": "react-image-gallery",
+            "version": "^0.8.12"
+          },
+          {
+            "name": "react-particles-js",
+            "version": "^2.4.2"
+          },
+          {
+            "name": "react-places-autocomplete",
+            "version": "^7.2.0"
+          },
+          {
+            "name": "react-reveal",
+            "version": "^1.2.2"
+          },
+          {
+            "name": "react-rnd",
+            "version": "^9.0.4"
+          },
+          {
+            "name": "react-scripts",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "react-scroll-parallax",
+            "version": "^1.3.5"
+          },
+          {
+            "name": "react-scrollspy",
+            "version": "^3.3.5"
+          },
+          {
+            "name": "react-select",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "react-stickynode",
+            "version": "^2.1.0"
+          },
+          {
+            "name": "react-test-renderer",
+            "version": "^16.6.3"
+          },
+          {
+            "name": "react-with-styles",
+            "version": "^3.2.1"
+          },
+          {
+            "name": "react-with-styles-interface-aphrodite",
+            "version": "^5.0.1"
+          },
+          {
+            "name": "rheostat",
+            "version": "^3.0.1"
+          },
+          {
+            "name": "styled-components",
+            "version": "^4.1.3"
+          },
+          {
+            "name": "styled-system",
+            "version": "^3.1.11"
+          }
+        ],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "39176f652d080868a4947e6ba69af96b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "A react next landing page",
+        "description": "Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.",
+        "author": "@gatsbyjs"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2019-03-23T08:30:12.463Z",
+      "id": "Site",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "a6300c9512d33af5c60214ff5258e2e7",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "4203e9b4-ec30-5d0d-9f70-0ea22d3ec9af": {
+      "resolve": "/Users/jamesclark/Documents/react_project_1v2/node_modules/gatsby-source-filesystem",
+      "id": "4203e9b4-ec30-5d0d-9f70-0ea22d3ec9af",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.28",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "images",
+        "path": "/Users/jamesclark/Documents/react_project_1v2/packages/landing-gatsby/src/images"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/jamesclark/Documents/react_project_1v2/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.28",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "2.1.2"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "d3b8c8d7010d3bc4ca3447fc9b9ea639",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "04e9d219-0b50-5098-a1dc-d737f77aa102": {
+      "resolve": "/Users/jamesclark/Documents/react_project_1v2/node_modules/gatsby-plugin-page-creator",
+      "id": "04e9d219-0b50-5098-a1dc-d737f77aa102",
+      "name": "gatsby-plugin-page-creator",
+      "version": "2.0.11",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/jamesclark/Documents/react_project_1v2/packages/landing-gatsby/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/jamesclark/Documents/react_project_1v2/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "2.0.11",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "2.1.2"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "micromatch",
+            "version": "^3.1.10"
+          },
+          {
+            "name": "parse-filepath",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "091fb379d5e75557b84d64846401c6a5",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "551fe9a0-902f-5753-9ab7-f581532f812a": {
+      "id": "551fe9a0-902f-5753-9ab7-f581532f812a",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "0cf71be25fad518127cab2f3d3eb3b91",
+        "type": "Directory",
+        "description": "Directory \"src/images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/jamesclark/Documents/react_project_1v2/packages/landing-gatsby/src/images",
+      "relativePath": "",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2019-02-26T12:54:02.000Z",
+      "accessTime": "2019-03-23T08:30:19.223Z",
+      "changeTime": "2019-03-23T01:26:02.125Z",
+      "birthTime": "2019-02-26T12:54:02.000Z",
+      "root": "/",
+      "dir": "/Users/jamesclark/Documents/react_project_1v2/packages/landing-gatsby/src",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8600722301,
+      "blocks": 0,
+      "atimeMs": 1553329819223.2869,
+      "mtimeMs": 1551185642000,
+      "ctimeMs": 1553304362125.2468,
+      "birthtimeMs": 1551185642000,
+      "atime": "2019-03-23T08:30:19.223Z",
+      "mtime": "2019-02-26T12:54:02.000Z",
+      "ctime": "2019-03-23T01:26:02.125Z",
+      "birthtime": "2019-02-26T12:54:02.000Z"
+    },
+    "f4325866-636c-554c-b870-1ab26f1aa8a9": {
+      "id": "f4325866-636c-554c-b870-1ab26f1aa8a9",
+      "children": [
+        "512946a4-3c11-5fc2-aa41-3a75bb2572a0"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "4a9773549091c227cd2eb82ccd9c5e3a",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/gatsby-icon.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/jamesclark/Documents/react_project_1v2/packages/landing-gatsby/src/images/gatsby-icon.png",
+      "relativePath": "gatsby-icon.png",
+      "extension": "png",
+      "size": 21212,
+      "prettySize": "21.2 kB",
+      "modifiedTime": "2019-02-25T13:10:20.000Z",
+      "accessTime": "2019-03-23T06:57:24.980Z",
+      "changeTime": "2019-03-23T01:26:02.125Z",
+      "birthTime": "2019-02-25T13:10:20.000Z",
+      "root": "/",
+      "dir": "/Users/jamesclark/Documents/react_project_1v2/packages/landing-gatsby/src/images",
+      "base": "gatsby-icon.png",
+      "ext": ".png",
+      "name": "gatsby-icon",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8600722302,
+      "blocks": 48,
+      "atimeMs": 1553324244979.8174,
+      "mtimeMs": 1551100220000,
+      "ctimeMs": 1553304362125.0981,
+      "birthtimeMs": 1551100220000,
+      "atime": "2019-03-23T06:57:24.980Z",
+      "mtime": "2019-02-25T13:10:20.000Z",
+      "ctime": "2019-03-23T01:26:02.125Z",
+      "birthtime": "2019-02-25T13:10:20.000Z"
+    },
+    "512946a4-3c11-5fc2-aa41-3a75bb2572a0": {
+      "id": "512946a4-3c11-5fc2-aa41-3a75bb2572a0",
+      "children": [],
+      "parent": "f4325866-636c-554c-b870-1ab26f1aa8a9",
+      "internal": {
+        "contentDigest": "4a9773549091c227cd2eb82ccd9c5e3a",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "SitePage /404/": {
+      "jsonName": "404-22d",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/jamesclark/Documents/react_project_1v2/packages/landing-gatsby/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "04e9d219-0b50-5098-a1dc-d737f77aa102",
+      "pluginCreatorId": "04e9d219-0b50-5098-a1dc-d737f77aa102",
+      "componentPath": "/Users/jamesclark/Documents/react_project_1v2/packages/landing-gatsby/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e5cb84571585a5f7f428d6e4e0226c48",
+        "description": "04e9d219-0b50-5098-a1dc-d737f77aa102",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/jamesclark/Documents/react_project_1v2/packages/landing-gatsby/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "04e9d219-0b50-5098-a1dc-d737f77aa102",
+      "pluginCreatorId": "04e9d219-0b50-5098-a1dc-d737f77aa102",
+      "componentPath": "/Users/jamesclark/Documents/react_project_1v2/packages/landing-gatsby/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "fe9f6cc247529b97a103249c46c47de0",
+        "description": "04e9d219-0b50-5098-a1dc-d737f77aa102",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "jsonName": "404-html-516",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/jamesclark/Documents/react_project_1v2/packages/landing-gatsby/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "componentPath": "/Users/jamesclark/Documents/react_project_1v2/packages/landing-gatsby/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b4780d251138c96224a0ee9be0f0789f",
+        "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "a1fde926a68d36affdf462ca98b24e8f"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "Site": [
+        "sq--src-components-layout-js",
+        "sq--src-components-seo-js"
+      ]
+    },
+    "connections": {}
+  },
+  "jsonDataPaths": {
+    "sq--src-components-layout-js": 755544856,
+    "sq--src-components-image-js": 2011440971,
+    "sq--src-components-seo-js": 1025518380,
+    "dev-404-page-5f9": "386/path---dev-404-page-5-f-9-fab-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "404-22d": "820/path---404-22-d-bce-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "app-f4d": "266/path---app-f-4-d-201-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "hosting-203": "567/path---hosting-203-101-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "agency-996": "726/path---agency-996-739-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "page-2-fbc": "726/path---page-2-fbc-5a8-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "index": "140/path---index-6a9-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "portfolio-964": "203/path---portfolio-964-7f6-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "ride-15b": "52/path---ride-15-b-70e-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "saas-970": "440/path---saas-970-3de-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "saasclassic-a2d": "828/path---saasclassic-a-2-d-1db-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "saasmodern-7c7": "308/path---saasmodern-7-c-7-28b-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "404-html-516": "285/path---404-html-516-62a-0SUcWyAf8ecbYDsMhQkEfPzV8"
+  },
+  "components": {
+    "/Users/jamesclark/Documents/react_project_1v2/packages/landing-gatsby/.cache/dev-404-page.js": {
+      "query": "",
+      "componentPath": "/Users/jamesclark/Documents/react_project_1v2/packages/landing-gatsby/.cache/dev-404-page.js"
+    },
+    "/Users/jamesclark/Documents/react_project_1v2/packages/landing-gatsby/src/pages/404.js": {
+      "query": "",
+      "componentPath": "/Users/jamesclark/Documents/react_project_1v2/packages/landing-gatsby/src/pages/404.js"
+    },
+    "/Users/jamesclark/Documents/react_project_1v2/packages/landing-gatsby/src/pages/index.js": {
+      "query": "",
+      "componentPath": "/Users/jamesclark/Documents/react_project_1v2/packages/landing-gatsby/src/pages/index.js"
+    }
+  },
+  "staticQueryComponents": {
+    "sq--src-components-layout-js": {
+      "name": "SiteTitleQuery",
+      "componentPath": "/Users/jamesclark/Documents/react_project_1v2/packages/landing-gatsby/src/components/layout.js",
+      "id": "sq--src-components-layout-js",
+      "jsonName": "sq--src-components-layout-js",
+      "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
+      "hash": 755544856
+    },
+    "sq--src-components-image-js": {
+      "name": "usersJamesclarkDocumentsReactProject1V2PackagesLandingGatsbySrcComponentsImageJs2011440971",
+      "componentPath": "/Users/jamesclark/Documents/react_project_1v2/packages/landing-gatsby/src/components/image.js",
+      "id": "sq--src-components-image-js",
+      "jsonName": "sq--src-components-image-js",
+      "query": "query usersJamesclarkDocumentsReactProject1V2PackagesLandingGatsbySrcComponentsImageJs2011440971 {\n  placeholderImage: file(relativePath: {eq: \"gatsby-astronaut.png\"}) {\n    childImageSharp {\n      fluid(maxWidth: 300) {\n        ...GatsbyImageSharpFluid\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
+      "hash": 2011440971
+    },
+    "sq--src-components-seo-js": {
+      "name": "DefaultSEOQuery",
+      "componentPath": "/Users/jamesclark/Documents/react_project_1v2/packages/landing-gatsby/src/components/seo.js",
+      "id": "sq--src-components-seo-js",
+      "jsonName": "sq--src-components-seo-js",
+      "query": "query DefaultSEOQuery {\n  site {\n    siteMetadata {\n      title\n      description\n      author\n    }\n  }\n}\n",
+      "hash": 1025518380
+    }
+  }
+}
